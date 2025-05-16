@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a computer science undergraduate at National Taiwan University. 
+
+- I'm interested in clean code and open-source projects.
+- I'm currently working on my <ins>personal website</ins> and [blog page](jatery.github.io).
+
+...
