@@ -1,43 +1,52 @@
-## What I'm Doing Now
+# Now[^now]
 
-### Currently Course Learning
+## 課上學習
 
-- Operating System. Now in CPU scheduling and memory management, I think I'm not ready for the final yet.
-- Machine Learning. Professor Lee did a great job, just going to finish the last few homeworks.
-- Computer System Lab. Final project now working on a self-sailing maze-running boat :speedboat:. Not sure how to complete the PID control and the maze algorithm, but other parts are working well.
+正在放暑假。感覺應該剩不多暑假了所以正在好好享受。\
+但確實還有 CNS (密碼學與資訊安全) 的課要補，以及教授讓我們看的文件。
 
-### Currently Off Course Learning
+## 課外學習
 
-- Web Development
-- Dart and Flutter
-- SwiftUI
+- Dart 和 Flutter
+- 可能斷斷續續背一下日文單字吧
+- 剛考完的古典樂理
 
-### Currently Projects Working On
+## 專案
 
-- [Blog Page](https://jatery.github.io) and Posts
-- Personal Website
-- Mandarin Vocaloid Songs (with VoiSona)
+- 多為這個網站寫點內容，threads 也同步一下
+- 拿瑛璨寫中文術曲
+- 繼續玩 Rpi 與 Home Assistant 的配件
+- ESP32-C3 與 OLED，打算拿來組個桌寵
 
-### Currently School Clubs
+## 社團
 
-- NTU Recorder Orchestra. I'm currently the conductor of the club this year and maybe next year. Struggling on a recorder quintet called 'Comets'. The final performance is on 2025/06/21.
-- NTU Digital Music Composition Club. Just finished the teaching of the club. Currently having two compositions written in the club but not published yet.
+- 台大直笛團：公演結束了，可能準備一下下學期的曲子？不要再開那種沒人會聽的曲子了。
+- DMCC 台大數位音樂創作社：看一下社團專輯之後的動向？但總之卸幹後應該沒什麼事了。
 
-### Currently Attending
+## 參加了什麼
 
-- Just finished our CSIE Night 2025 in our department (2025/05/15). I've played the keyboard in our band and a wotagei solo performance. I've also been the photographer in the event. Will attend next year, hopefully.
+- 剛考完師大的跨校輔系考，心得可以去看[這篇](./posts/1752040755502-NTNU-composition/)
 
-### Currently Playing
+## 遊戲
 
-- Arknights. Have played for almost 5 years, but currently not playing much. Mint lover.
-- Genshin Impact. Have played for over 2 years, but currently not playing much, less than Arknights. Finally going to have a 5-star weapon for LingHua.
-- Sky: Children of the Light. Have played on and off for almost 6 years?! Now playing daily with my friend for the new season.
+- 光遇：備選社交遊戲。
+- 幾款 Galgame：上週把千戀萬花玩得差不多了，在 Mac 上跑 exe 程式還真是不簡單。接下來可能再幾款柚子社的，以及**必玩的**心跳文學部。
+- 不知道還算不算有在玩的明日方舟與原神。
 
-### Currently Following Animes
+## 動畫
 
-- Shoshimin Series S2. I've read the original novel, so I'm just looking foward to the animation.
-- Mono Girls. Just photographing + traveling + girls doing cute things.
+- 章魚嗶的原罪：只有六集的小清新動畫。嗯。<strike>你剛才動手了對吧？</strike>
+- 青豬大學篇：算入宅作之一，他的大學果然還是比較好玩。
+- 薰香花朵凜然綻放：很甜，很漂亮，很成長。
+- 戀人不行：百合後宮，<strike>穩</strike>。
+- 美食廣場：也是六集的漫才，期待演出。
+- Slient Witch：這部姑且觀望一下，雖然題材不錯但不知道會不會棄。
 
-Last updated: 2025/05/16
+## 書籍
+
+- 太宰治《斜陽》：人果然就是為戀愛與革命而活的啊。淺淺看完，但體悟沒有到很深。
+- 李屏瑤《台北家族，違章女生》：之前國文課的選讀，散文裡講了不少面對家庭、性向、關係的認同與掙扎。
+- 鈴木大輔《双子探偵 詩愛&心逢》：在日本買的文庫本大小的輕小說，有上下兩冊，通勤時慢慢一點一點看，現在大概才在第一冊 1/3 多而已。
 
 [^now]: https://nownownow.com/about
+
