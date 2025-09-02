@@ -55,10 +55,12 @@
 - 楊双子**《臺灣漫遊錄》**
 - 鈴木大輔**《双子探偵 詩愛&心逢》**：在日本買的文庫本大小的輕小說，有上下兩冊，通勤時慢慢一點一點看，現在大概才在第一冊 1/3 多而已。
 
-[^now]: https://nownownow.com/about
+> https://nownownow.com/about
+
 [^1]: 自動機與形式語言
 [^2]: 計算機結構
 [^3]: 系統程式設計
 [^4]: 網路管理與系統管理
 [^5]: https://www.espboards.dev/esp32/esp32-c3-super-mini/
 [^6]: https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
+
